@@ -1,5 +1,36 @@
 # PH-JS
+# My Project
 
+This is a project that I created to do something.
+
+## Features
+
+* This project does something great.
+* This project also does something else great.
+
+## Installation
+
+To install this project, you will need to:
+
+1. Clone the repository from GitHub.
+2. Install the dependencies using `pip install -r requirements.txt`.
+3. Run the project using `python main.py`.
+
+## Usage
+
+To use this project, you will need to:
+
+1. Provide some input.
+2. The project will do something great with your input.
+3. The project will output the results.
+
+## Documentation
+
+The documentation for this project can be found here: https://myproject.com/docs/
+
+## Source Code
+
+The source code for this project can be found here: https://github.com/myusername/myproject
 Hello JavaScript
 This is a simple introduction to JavaScript variables.
 
