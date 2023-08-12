@@ -12,3 +12,15 @@ for(i = 0; i < numbers.length; i++) {
 // 32
 // 51
 // 25
+
+
+var items = ["bootle", "mouse", "sunglass", "pen"];
+
+for(var i = 0; i < items.length; i++) {
+    console.log(items[i]);
+}
+// output: 
+// bootle
+// mouse
+// sunglass
+// pen
