@@ -1,34 +1,34 @@
-var myName = 'Khan';
-1.variable
+// var myName = 'Khan';
+// 1.variable
 
-math operation +,-,*,/
-shorthand: +=,--,++
+// math operation +,-,*,/
+// shorthand: +=,--,++
 
-2.array
+// 2.array
 
-var friends= ['abul','babul','dabul','kabul'];
+// var friends= ['abul','babul','dabul','kabul'];
 
-array postions knows as index 
+// array postions knows as index 
 
-my thirdFriend = friends[2];
-friends[3] = 'dambool';
+// my thirdFriend = friends[2];
+// friends[3] = 'dambool';
 
-3.conditonals
-if() {
-    >,<,<=,>=,==,===,!=,!==
-}
+// 3.conditonals
+// if() {
+//     >,<,<=,>=,==,===,!=,!==
+// }
 
-else if() {
+// else if() {
 
-}
-else {
+// }
+// else {
 
-}
+// }
 
-4.loop
-while,for,for in
+// 4.loop
+// while,for,for in
 
-4.function name(params) {
+// 4.function name(params) {
     
-}
-5.objects
+// }
+// 5.objects
