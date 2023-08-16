@@ -11,3 +11,8 @@ for(const li of liCollection){
     console.log(li);
     console.log(li.innerText);
 }
+
+console.log(document.getElementById('dom-title'));
+console.log(document.getElementById('jalali'));
+
+console.log(document.getElementsByClassName('important'));
