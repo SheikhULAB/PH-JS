@@ -13,9 +13,13 @@ for(const li of liCollection){
 }
 
 console.log(document.getElementById('dom-title'));
-console.log(document.getElementById('jalali'));
+console.log(document.getElementById('jalali').style.textAlign = 'center');
 
 console.log(document.getElementsByClassName('important'));
 
 console.log(document.querySelectorAll('.fruites'));
 console.log(document.querySelector('.fruites li'));
+console.log(document.querySelector('.fruites li').style.color = 'red');
+console.log(document.querySelector('.fruites li').style.backgroundColor = 'yellow');
+
+
