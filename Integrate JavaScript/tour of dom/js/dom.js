@@ -16,3 +16,6 @@ console.log(document.getElementById('dom-title'));
 console.log(document.getElementById('jalali'));
 
 console.log(document.getElementsByClassName('important'));
+
+console.log(document.querySelectorAll('.fruites'));
+console.log(document.querySelector('.fruites li'));
